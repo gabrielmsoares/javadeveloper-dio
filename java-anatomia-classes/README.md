@@ -1,1 +1,1 @@
-Essa é a primeira parte do curso focada na Sintaxe Java.
+Essa é a segunda parte do curso, parte do módulo 01 Sintaxe Java.
